@@ -1,5 +1,0 @@
-{{#sahiltambe18}
-Name: Sahill
-Skills: HTML, CSS, JS, Next.js , Ts  , React.js,Tailwind , Node.js , Mongodb , Express , C++ , JAVA, Python 
-Email: sahiltambe81922@gmail.com
-{{/sahiltambe18}}
